@@ -33,8 +33,8 @@ I'm Jr. DevOps & AWS Engineer
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/09/store.png" width="5.5%">
   <img src="https://user-images.githubusercontent.com/567298/57307750-696bb980-70e5-11e9-9b0b-73ad88bde6a3.png" width="14.5%">
   
-  Game 
-  
+ 
+  Game :D
   -------------------
   ![snake svg](https://github.com/Comp-Wolf/Comp-Wolf/blob/output/github-contribution-grid-snake.svg)
   
