@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Jr. DevOps & AWS Engineer 
+I'm DevOps & AWS Engineer 
 
 
 ## 🌐 Socials:
